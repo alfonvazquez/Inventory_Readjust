@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  5 16:57:13 2019
 
-@author: C09755
-"""
 
 import pandas as pd
 #import time
